@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## 额...没错，这确实是个博客（啥都没有）正在往里面填东西...
 
 You can use the [editor on GitHub](https://github.com/MarinaMarissa/MarinaMarissa.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
